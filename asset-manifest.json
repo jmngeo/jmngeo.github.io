@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bf68bbe6.chunk.css",
+    "main.js": "./static/js/main.65435579.chunk.js",
+    "main.js.map": "./static/js/main.65435579.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
+    "static/js/2.583b6e0e.chunk.js": "./static/js/2.583b6e0e.chunk.js",
+    "static/js/2.583b6e0e.chunk.js.map": "./static/js/2.583b6e0e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e26a78597c182448823dbafec8d14a1d.js": "./precache-manifest.e26a78597c182448823dbafec8d14a1d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.bf68bbe6.chunk.css.map": "./static/css/main.bf68bbe6.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/undraw_books_wxzz.svg": "./static/media/undraw_books_wxzz.c7357d7b.svg",
+    "static/media/undraw_retro-video-game_l9zp.svg": "./static/media/undraw_retro-video-game_l9zp.9721a6b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb7e7b0c.js",
+    "static/js/2.583b6e0e.chunk.js",
+    "static/css/main.bf68bbe6.chunk.css",
+    "static/js/main.65435579.chunk.js"
+  ]
+}
